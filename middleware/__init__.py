@@ -1,5 +1,6 @@
 # coding=utf-8
 
+# BASED ON DJANGO-TUPPERWARE: https://bitbucket.org/jiaaro/django-tupperware
 try:
     from threading import local
 except ImportError:
